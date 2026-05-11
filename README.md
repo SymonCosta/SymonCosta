@@ -1,16 +1,33 @@
-### Hi there 👋
+# Symon Costa
 
-<!--
-**SymonCosta/SymonCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição para tecnologia com foco em:
+- Data Analytics
+- Machine Learning
+- Industrial Monitoring
+- AWS Cloud
+- Python
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on  Vendas;
-- 🌱 I’m currently learning  desenvolver e programar com JAVA;
-- 👯 I’m looking to collaborate on crescimento mutuo e sustentabilidade;
-- 🤔 I’m looking for help with programacao;
-- 💬 Ask me about Vendas e Saude;
-- 📫 How to reach me: costasymon37@gmail.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Sou homem tran e PCD.
--->
+- Python
+- Pandas
+- Scikit-Learn
+- FastAPI
+- Streamlit
+- AWS S3
+- AWS Athena
+- SQL
+
+## Projetos em Destaque
+
+### Industrial Telemetry Pipeline
+Pipeline de telemetria industrial utilizando AWS S3 e Athena.
+
+### Industrial Failure Detection
+Sistema inteligente de detecção de falhas industriais com Machine Learning e monitoramento em tempo real.
+
+## Atualmente estudando
+- Engenharia de Dados
+- IA aplicada
+- Cloud Computing
+- Analytics
